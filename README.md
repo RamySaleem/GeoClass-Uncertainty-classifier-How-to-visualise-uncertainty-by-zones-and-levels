@@ -47,7 +47,7 @@ Level-5 surface geological boundaries represent the interpretation parts above t
 # Run locally - recommended
 Set up Python, download the notebook and install the required libraries. We recommend using the Conda or pip of Python.
 # Using free online resources:
-Run-on Colab (Google's cloud infrastructure), Run-on Binder or Run-on Kaggle. However, many online resources don't support the external window of Open 3D, so you need to use docker to solve the error. For example https://stackoverflow.com/questions/54483960/pyopengl-headless-rendering/55429262
+Run-on Colab (Google's cloud infrastructure), Run-on Binder or Run-on Kaggle. However, many online resources don't support the external window of Open 3D, so you need to use docker to solve the error.
 
 # Dataset
 The geological dataset used in this tutorial is a high-resolution dataset on CSV format. We will provide 3D models to run the code. This dataset from late Carboniferous multi-layered stratigraphy through the Ruhr basin, coal measures of Germany.
