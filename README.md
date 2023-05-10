@@ -25,18 +25,18 @@ With geoclass you can perform complex 3D processing operations and visualise you
 6. Get output file with the class you like to continue the further investigation.
 
 # Zones
-Zone-1 represent direct observation from outcrops and galleries.
-Zone-2 show the area or space between galleries and around outcrops.
-Zone-3 show interpretation which filled the space within 100m from direct observation.
-Zone-4 show interpretation zone which filled the space beyond 100m from direct observation.
-Zone-5 show surface interpretation zone which filled the space above the Earth’s surface, projected in the air for eroded or covered geology.
+1. Zone-1 represent direct observation from outcrops and galleries.
+2. Zone-2 show the area or space between galleries and around outcrops.
+3. Zone-3 show interpretation which filled the space within 100m from direct observation.
+4. Zone-4 show interpretation zone which filled the space beyond 100m from direct observation.
+5. Zone-5 show surface interpretation zone which filled the space above the Earth’s surface, projected in the air for eroded or covered geology.
 
 # Levels
-Level-1 define as the parts of the horizons that directly collect from outcrops, coalmine galleries or boreholes. Plus direct faults observations.
-Level-2 geological boundaries which are the verified parts of the horizons between the galleries and around the outcrops. Plus the secured faults interpretations.
-Level-3 represent the parts of the horizons that projected due to nearby excavations or boreholes up to a distance of approximately 100 m).
-Level-4 is subsurface observations in areas beyond 100m of direct observation.
-Level-5 surface geological boundaries represent the interpretation parts above the Earth’s surface for covered or eroded geology. Plus the presumed faults interpretation.
+1. Level-1 define as the parts of the horizons that directly collect from outcrops, coalmine galleries or boreholes. Plus direct faults observations.
+2. Level-2 geological boundaries which are the verified parts of the horizons between the galleries and around the outcrops. Plus the secured faults interpretations.
+3. Level-3 represent the parts of the horizons that projected due to nearby excavations or boreholes up to a distance of approximately 100 m).
+4. Level-4 is subsurface observations in areas beyond 100m of direct observation.
+5. Level-5 surface geological boundaries represent the interpretation parts above the Earth’s surface for covered or eroded geology. Plus the presumed faults interpretation.
 
 # Requirements
 • Python 3.8.5
