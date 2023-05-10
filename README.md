@@ -47,7 +47,7 @@ With geoclass you can perform complex 3D processing operations and visualise you
 
 # Run locally - recommended
 Set up Python, download the notebook and install the required libraries. We recommend using the Conda or pip of Python.
-# Using free online resources:
+# Using free online resources
 Run-on Colab (Google's cloud infrastructure), Run-on Binder or Run-on Kaggle. However, many online resources don't support the external window of Open 3D, so you need to use docker to solve the error.
 
 # Dataset
