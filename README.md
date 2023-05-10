@@ -21,7 +21,7 @@ With geoclass you can perform complex 3D processing operations and visualise you
 2. Visualise your 3D geological model using point clouds.
 3. Create uncertainty zones around your structural interpretation.
 4. Classify your interpretation by level 1, 2, 3, 4 and 5.
-5. visualise the risk in your subsurface structural interpretation.
+5. Visualise the risk in your subsurface structural interpretation.
 6. Get output file with the class you like to continue the further investigation.
 
 # Zones
