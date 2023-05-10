@@ -17,12 +17,12 @@ Schematic model to illustrate uncertainty and risk zones and associated uncertai
 You can access our models and dataset or apply your geological model, form visualising to classification.
 With geoclass you can perform complex 3D processing operations and visualise your uncertainty classification. For example, you can:
 
-1/ Load your 3D geological model from disk.
-2/ Visualise your 3D geological model using point clouds.
-3/ Create uncertainty zones around your structural interpretation.
-4/ Classify your interpretation by level 1, 2, 3, 4 and 5.
-5/ visualise the risk in your subsurface structural interpretation.
-6/ Get output file with the class you like to continue the further investigation.
+1. Load your 3D geological model from disk.
+2. Visualise your 3D geological model using point clouds.
+3. Create uncertainty zones around your structural interpretation.
+4. Classify your interpretation by level 1, 2, 3, 4 and 5.
+5. visualise the risk in your subsurface structural interpretation.
+6. Get output file with the class you like to continue the further investigation.
 
 # Zones
 Zone-1 represent direct observation from outcrops and galleries.
