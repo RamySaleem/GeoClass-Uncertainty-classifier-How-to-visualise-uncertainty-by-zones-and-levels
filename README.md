@@ -60,13 +60,16 @@ your home directory.
 
 # Conda Environment
 To create a conda environment, open an Anaconda Prompt from the Start menu on your computer, and type the following:
-#conda create --name geoclass anaconda 
+
+`conda create --name geoclass anaconda`
 Hit return when it asks for confirmation. When it's finished, start the environment:
-#conda activate geoclass
+
+`conda activate geoclass`
 Now one more bit of work to get access to this environment from inside Jupyter notebook:
-python -m ipykernel install --user --name geoclass
+
+`python -m ipykernel install --user --name geoclass`
 Once you have a conda environment working, you need to install a couple of packages using another package manager. In the same terminal as before, with the geocomp environment already activated, type the following:
-#pip install pandas scipy open3d
+`pip install pandas scipy open3d`
 
 # Dataset
 The geological dataset used in this tutorial is a high-resolution dataset on CSV format. We will provide 3D models to run the code. This dataset from late Carboniferous multi-layered stratigraphy through the Ruhr basin, coal measures of Germany.
