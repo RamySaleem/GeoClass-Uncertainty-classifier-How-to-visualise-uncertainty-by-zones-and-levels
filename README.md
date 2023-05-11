@@ -50,6 +50,25 @@ Set up Python, download the notebook and install the required libraries. We reco
 # Using free online resources
 Run-on Colab (Google's cloud infrastructure), Run-on Binder or Run-on Kaggle. However, many online resources don't support the external window of Open 3D, so you need to use docker to solve the error.
 
+# Install Python
+1. Go to https://www.anaconda.com/download/
+2. Click the green Python 3.7 version download button. Please
+note that you can still use Python 2.7 with this version.
+3. Run the installer, accepting the license.
+4. Accept the default location for Anaconda, which should be
+your home directory.
+5. Accept the other defaults.
+
+# Conda Environment
+To create a conda environment, open an Anaconda Prompt from the Start menu on your computer, and type the following:
+#conda create --name geoclass anaconda 
+Hit return when it asks for confirmation. When it's finished, start the environment:
+#conda activate geoclass
+Now one more bit of work to get access to this environment from inside Jupyter notebook:
+python -m ipykernel install --user --name geoclass
+Once you have a conda environment working, you need to install a couple of packages using another package manager. In the same terminal as before, with the geocomp environment already activated, type the following:
+#pip install pandas scipy open3d
+
 # Dataset
 The geological dataset used in this tutorial is a high-resolution dataset on CSV format. We will provide 3D models to run the code. This dataset from late Carboniferous multi-layered stratigraphy through the Ruhr basin, coal measures of Germany.
 
