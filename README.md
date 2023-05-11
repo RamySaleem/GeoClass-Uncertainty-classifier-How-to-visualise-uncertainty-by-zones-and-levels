@@ -71,6 +71,9 @@ Now one more bit of work to get access to this environment from inside Jupyter n
 Once you have a conda environment working, you need to install a couple of packages using another package manager. In the same terminal as before, with the geocomp environment already activated, type the following:
 `pip install pandas scipy open3d`
 
+# Run Python Model
+
+
 # Dataset
 The geological dataset used in this tutorial is a high-resolution dataset on CSV format. We will provide 3D models to run the code. This dataset from late Carboniferous multi-layered stratigraphy through the Ruhr basin, coal measures of Germany.
 
