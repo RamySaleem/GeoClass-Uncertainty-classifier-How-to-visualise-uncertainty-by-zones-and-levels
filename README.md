@@ -73,6 +73,17 @@ Once you have a conda environment working, you need to install a couple of packa
 
 # Run Python Model
 
+To use the Geoclass Python Model to classify 3D point cloud data, please follow these steps:
+
+1. Retrieve the 3D model files from the designated data folder.
+2. Obtain the Geoclass Python Model by downloading `points_classification.py` and the accompanying settings file `settings.py`.
+3. Ensure that the Geoclass files are placed within the same folder as the data files.
+4. To open the Anaconda terminal, right-click and select "open a new Anaconda terminal." Alternatively, you may use the Linux terminal by pressing shift and right-clicking.
+5. Prior to running the model, ensure that you have installed Anaconda, created the geoclass environment, and installed the necessary libraries using the `pip` command.
+6. If necessary, modify the file names for the input data (interpretations, wells, and outcrops) and specify the desired uncertainty distance.
+7. Execute the settings file by typing `python settings.py` into the terminal.
+8. Run the Geoclass model by executing `python points_classification.py`.
+9. Once the model has completed its analysis, a window will appear displaying the results.
 
 # Dataset
 The geological dataset used in this tutorial is a high-resolution dataset on CSV format. We will provide 3D models to run the code. This dataset from late Carboniferous multi-layered stratigraphy through the Ruhr basin, coal measures of Germany.
