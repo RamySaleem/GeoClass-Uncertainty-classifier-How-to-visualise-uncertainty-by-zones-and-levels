@@ -39,7 +39,7 @@ With geoclass you can perform complex 3D processing operations and visualise you
 5. Level-5 surface geological boundaries represent the interpretation parts above the Earth’s surface for covered or eroded geology. Plus the presumed faults interpretation.
 
 # Requirements
-• Python 3.8.5
+• Python 3.8.5 or above
 • Jupyter notebook
 • Suitable geoscience environment e.g. geoclass
 #conda create --name geoclass anaconda
@@ -52,8 +52,7 @@ Run-on Colab (Google's cloud infrastructure), Run-on Binder or Run-on Kaggle. Ho
 
 # Install Python
 1. Go to https://www.anaconda.com/download/
-2. Click the green Python 3.7 version download button. Please
-note that you can still use Python 2.7 with this version.
+2. Click the green Python download button.
 3. Run the installer, accepting the license.
 4. Accept the default location for Anaconda, which should be
 your home directory.
