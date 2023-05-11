@@ -53,6 +53,12 @@ Run-on Colab (Google's cloud infrastructure), Run-on Binder or Run-on Kaggle. Ho
 # Dataset
 The geological dataset used in this tutorial is a high-resolution dataset on CSV format. We will provide 3D models to run the code. This dataset from late Carboniferous multi-layered stratigraphy through the Ruhr basin, coal measures of Germany.
 
+Link to dataset https://drive.google.com/drive/folders/1j4PBXQyVx89rkVTvMS7Yjl7e7y5OTDrC?usp=sharing
+Link to dataset https://drive.google.com/drive/folders/1EabQCWqC1JExdLTRCJRx8MDAGHAhHy5N?usp=sharing
+For more information about the dataset see
+https://github.com/RamySaleem/Digitisation-2D-Sections-From-Scan-Images
+
+
 # Visualise dataset
 We have created an automated uncertainty classification workflow that expands the analysis into 3D space rather than based purely on 2D cross-section lines. Our automated uncertainty classifier Geoclass is open source and freely available. It shows examples of input and output files alongside 3D geological model and uncertainty zones and level visualisations. The automated approach aims to increase efficiency, as well as to incorporate 3D spatial information. The latter is particularly useful for borehole data that is often spatially dispersed and may not lie precisely on 2D cross-sections. 
 
