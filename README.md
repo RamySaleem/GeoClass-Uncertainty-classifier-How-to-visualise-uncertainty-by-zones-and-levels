@@ -88,8 +88,8 @@ To use the Geoclass Python Model to classify 3D point cloud data, please follow 
 # Dataset
 The geological dataset used in this tutorial is a high-resolution dataset on CSV format. We will provide 3D models to run the code. This dataset from late Carboniferous multi-layered stratigraphy through the Ruhr basin, coal measures of Germany.
 
-1. Link to dataset https://drive.google.com/drive/folders/1j4PBXQyVx89rkVTvMS7Yjl7e7y5OTDrC?usp=sharing
-2. Link to dataset https://drive.google.com/drive/folders/1EabQCWqC1JExdLTRCJRx8MDAGHAhHy5N?usp=sharing
+1. Link to dataset- see Study area-1 https://drive.google.com/drive/folders/1j4PBXQyVx89rkVTvMS7Yjl7e7y5OTDrC?usp=sharing
+2. Link to dataset- see Study area-1 https://drive.google.com/drive/folders/1EabQCWqC1JExdLTRCJRx8MDAGHAhHy5N?usp=sharing
 3. For more information about the dataset see
 https://github.com/RamySaleem/Digitisation-2D-Sections-From-Scan-Images
 4. Link to Google Models https://drive.google.com/drive/folders/1wgVieumdVUn99fagCtYHAmZTF2j5U-th?usp=sharing
