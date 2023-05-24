@@ -108,7 +108,7 @@ After creating a point cloud object from the data, I create a loop that iterates
 # Output and Future work
 Generate an output CSV file with all levels together and each level spatially on the interpretation. This files can be used as an input for any further investigation using machine learning (GAN). For example, part of the output (level-1 or perhaps level-1 & 2) can be used on machine learning/deep learning models as input to predict the remaining levels (3, 4 and 5).
 
-![](https://i.imgur.com/He42V0D.mp4)
+![](https://i.imgur.com/T958MaL.png)
 
 # Reference
 Andrews, B. J. et al., 2019. How do we see fractures? Quantifying subjective bias in fracture data collection. Solid Earth, European Geosciences Union, 10(1), p. 487–516.
