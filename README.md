@@ -94,6 +94,7 @@ The geological dataset used in this tutorial is a high-resolution dataset on CSV
 3. For more information about the dataset see
 https://github.com/RamySaleem/Digitisation-2D-Sections-From-Scan-Images
 4. Link to Google Earth Models https://drive.google.com/drive/folders/1wgVieumdVUn99fagCtYHAmZTF2j5U-th?usp=sharing
+5. All the maps and cross-section of the Ruhr subbasin, lower Rhine basin is available in the North Rhine-Westphalia Geological Survey – State Office – (GD NRW) for a fee https://www.gd.nrw.de/pr_kd.htm
 
 # Visualise dataset
 We have created an automated uncertainty classification workflow that expands the analysis into 3D space rather than based purely on 2D cross-section lines. Our automated uncertainty classifier Geoclass is open source and freely available. It shows examples of input and output files alongside 3D geological model and uncertainty zones and level visualisations. The automated approach aims to increase efficiency, as well as to incorporate 3D spatial information. The latter is particularly useful for borehole data that is often spatially dispersed and may not lie precisely on 2D cross-sections. 
